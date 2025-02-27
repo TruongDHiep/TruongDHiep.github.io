@@ -8,6 +8,6 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://truongdhiep.github.io/)**
 
 
